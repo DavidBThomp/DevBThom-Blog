@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>site review on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/site-review/</link>
+    <description>Recent content in site review on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 21:24:47 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/site-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DoctorOfficeIT</title>
+      <link>https://devbthom.com/posts/doctorofficeit/</link>
+      <pubDate>Tue, 07 Mar 2023 21:24:47 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/doctorofficeit/</guid>
+      <description>This is a project I had in the works for a period of over 4/5 months. My goal was to replicate the site, which I did, and then touch up that recreation to bring it modern features. I also wanted to give the home page a bit of a facelift, and fix other various minor errors. I am happy with how it came out! The experience taught me about hosting, BootStrap 5, and semantic HTML.</description>
+    </item>
+    
+  </channel>
+</rss>

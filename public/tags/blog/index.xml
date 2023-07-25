@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/blog/</link>
+    <description>Recent content in blog on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2023 21:13:27 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step By Step</title>
+      <link>https://devbthom.com/posts/step-by-step/</link>
+      <pubDate>Sat, 14 Jan 2023 21:13:27 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/step-by-step/</guid>
+      <description>I can comprehend what small businesses owner go through by the experiences I&amp;rsquo;ve had working with them. I have seen both sides of the coin in terms of what big and small business does. I know that often small business owners can be busy all the time, having unrelenting pressure to work because of the absurdly high failure rate. I originally thought it was 90% as mentioned at the start of the article, but 70%, not too bad&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Mission</title>
+      <link>https://devbthom.com/posts/my-mission/</link>
+      <pubDate>Fri, 13 Jan 2023 18:05:02 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/my-mission/</guid>
+      <description>I think that a lot of the time, web development can be an end goal for someone, a means to a purpose. I am in that same boat but want to use it as a means to a degree of fulfillment. I view what I want to do as a path that has different options. A corporate job, passionate software developers, freelance nomads, etc. I see myself as someone pursuing that freelance nomad ideal with the addition of wanting to help as many people as I can.</description>
+    </item>
+    
+  </channel>
+</rss>

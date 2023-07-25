@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>small business on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/small-business/</link>
+    <description>Recent content in small business on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2023 20:59:47 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/small-business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Freelance Workflow</title>
+      <link>https://devbthom.com/posts/basic-freelance-workflow/</link>
+      <pubDate>Thu, 09 Feb 2023 20:59:47 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/basic-freelance-workflow/</guid>
+      <description>What Workflow? One major shift in terms of the way I want to further pursue my ideal web development dreams has to do with my workflow. I think that while I was focusing on too many different things, I had nothing to a point of being extremely comfortable. I want to create, manage, and innovate a system for myself that allows me to best invest my time in web development. I hope you likewise find a system for yourself.</description>
+    </item>
+    
+    <item>
+      <title>My Mission</title>
+      <link>https://devbthom.com/posts/my-mission/</link>
+      <pubDate>Fri, 13 Jan 2023 18:05:02 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/my-mission/</guid>
+      <description>I think that a lot of the time, web development can be an end goal for someone, a means to a purpose. I am in that same boat but want to use it as a means to a degree of fulfillment. I view what I want to do as a path that has different options. A corporate job, passionate software developers, freelance nomads, etc. I see myself as someone pursuing that freelance nomad ideal with the addition of wanting to help as many people as I can.</description>
+    </item>
+    
+  </channel>
+</rss>

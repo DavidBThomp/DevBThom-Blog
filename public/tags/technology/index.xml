@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/technology/</link>
+    <description>Recent content in technology on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 00:07:52 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Express Middleware: A Dummy Overview</title>
+      <link>https://devbthom.com/posts/express-middleware-a-dummy-overview/</link>
+      <pubDate>Thu, 19 Jan 2023 00:07:52 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/express-middleware-a-dummy-overview/</guid>
+      <description>Specific aspects of Web Development elude me even after getting my Associate&amp;rsquo;s in Web Development. Specifically moreover, a lot of the back-end terminology, tools, and concepts. Middleware started off as something which eluded me, but hopefully, I can clarify it and put it in a way that my brain understood it.
+Middleware Express provides some key points I want to highlight in this condensed lesson provided by expressjs.com. Middleware can:</description>
+    </item>
+    
+    <item>
+      <title>Understanding WordPress</title>
+      <link>https://devbthom.com/posts/understanding-wordpress/</link>
+      <pubDate>Tue, 17 Jan 2023 20:40:06 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/understanding-wordpress/</guid>
+      <description>One thing I found confusing about WordPress was how themes, plugins, and widgets can change so much over the management of a site. For one theme you have an editor, for another one you have customization, and so on. I think one thing that was made clear to me from the Udemy course I took regarding WordPress is to find your way to make one thing, then add on. You don&amp;rsquo;t have to learn how to use the new editor, themes, widgets, plugins, and all the other new features at once.</description>
+    </item>
+    
+  </channel>
+</rss>

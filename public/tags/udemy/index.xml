@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>udemy on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/udemy/</link>
+    <description>Recent content in udemy on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 19:26:04 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/udemy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress for Beginners - Master Wordpress Quickly</title>
+      <link>https://devbthom.com/posts/wordpress-for-beginners-master-wordpress-quickly/</link>
+      <pubDate>Mon, 16 Jan 2023 19:26:04 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/wordpress-for-beginners-master-wordpress-quickly/</guid>
+      <description>When looking to add to your toolkit as a web developer, WordPress is a great place to start and add to your tool kit. I earned my Associate in Applied Science in Web Development and wanted to work ASAP. As I started looking at what I could do on my own I realized my skills and potential would be limited if I didn&amp;rsquo;t learn about the platform that hosts 33% of websites!</description>
+    </item>
+    
+  </channel>
+</rss>

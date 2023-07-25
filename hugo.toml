@@ -1,3 +1,33 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://devbthom.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'DevBThom Blog'
+theme = 'hugo-blog-awesome'
+
+[[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/DavidBThomp/'
+
+[[params.socialIcons]]
+name = 'linkedin'
+url = 'https://www.linkedin.com/in/davidbthomp/'
+
+[[params.socialIcons]]
+name = 'youtube'
+url = 'https://www.youtube.com/channel/UCkps3954_aYxT9uI0QtedWg'
+
+[[params.socialIcons]]
+name = 'Rss'
+url = 'index.xml'
+
+[params]
+goToTop = true
+
+# This defines how dates are formatted
+defaultContentLanguage = 'en-gb'
+
+[params.author]
+avatar = 'avatar.jpg' # put the file in assets folder; also ensure that image has same height and width
+# Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+intro = 'Web Developer'
+name = 'DevBThom'
+description = 'Web developer, technology enthusist, and gamer.'

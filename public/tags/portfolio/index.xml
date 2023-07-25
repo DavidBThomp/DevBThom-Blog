@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/portfolio/</link>
+    <description>Recent content in portfolio on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 21:04:07 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House of Pho</title>
+      <link>https://devbthom.com/posts/house-of-pho/</link>
+      <pubDate>Mon, 13 Feb 2023 21:04:07 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/house-of-pho/</guid>
+      <description>The vision for this project was to re-create the site staying committed to the basic sitemap of the current site. To do this, we simplified the sitemap even more and decided to work on a single page site. The only external tools used is jQuery and Google Fonts.
+The 3 key points for the new site:
+Theming and Site Color Navigation and Footer Fixes Responsive Web Design Theme and Color The old site used a color pallet of light green, red, and white.</description>
+    </item>
+    
+  </channel>
+</rss>

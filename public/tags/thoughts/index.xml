@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on DevBThom Blog</title>
+    <link>https://devbthom.com/tags/thoughts/</link>
+    <description>Recent content in thoughts on DevBThom Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 18:05:02 +0000</lastBuildDate><atom:link href="https://devbthom.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Mission</title>
+      <link>https://devbthom.com/posts/my-mission/</link>
+      <pubDate>Fri, 13 Jan 2023 18:05:02 +0000</pubDate>
+      
+      <guid>https://devbthom.com/posts/my-mission/</guid>
+      <description>I think that a lot of the time, web development can be an end goal for someone, a means to a purpose. I am in that same boat but want to use it as a means to a degree of fulfillment. I view what I want to do as a path that has different options. A corporate job, passionate software developers, freelance nomads, etc. I see myself as someone pursuing that freelance nomad ideal with the addition of wanting to help as many people as I can.</description>
+    </item>
+    
+  </channel>
+</rss>
